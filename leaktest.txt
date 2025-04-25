@@ -1,4 +1,0 @@
-"AadClientId": "306176bb-4250-4dc8-9f45-80259d906821",
-"AadSecret": "03T8Q~UkXNQQl.TPCN1mFKuwNYJGNxfzEj~yecE~",
-"AadTenantDomain": "mobiliar.onmicrosoft.com",
-"AadTenantId": "af7227b1-ac3a-4487-9e9f-ba462bb409d4",
